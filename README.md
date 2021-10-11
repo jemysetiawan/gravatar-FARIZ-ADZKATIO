@@ -46,4 +46,4 @@ Work With Us
 [telegrambotslist | JEMY SETIAWAN](https://code.dcoder.tech/files/project/615326ef17efffa0d6b400dc/telegrambotslist)
 
 `October, Monday 11'2021`
-`Created ®JEMY SETIAWAN ©All Copyrights Reserved`
+`Created ®FARIZ ADZKATIO ©All Copyrights Reserved`
