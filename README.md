@@ -33,6 +33,10 @@ Yahoo!
 `𝚜𝚓𝚎𝚖𝚢_221058@𝚢𝚊𝚑𝚘𝚘.𝚌𝚘𝚖`
 Cell Phone
 `+6285773813523`
+Telegram
+`@sjemy2210` `@GitHubBot` `https://t.me/jemy2210` `@BotListBot`
+`@bukanbocah_bot` `https://t.me/cutter_re` `@Netflixsearchrobot` 
+`@WorldImages` `@NETFLIXONLINES`
 
 `JSON` `XML` `PHP` `VCF` `QR`
 
