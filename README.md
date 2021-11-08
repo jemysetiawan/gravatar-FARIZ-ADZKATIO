@@ -16,9 +16,13 @@
  ![](https://assets.dcoder.tech/61381f035dac330612ecaca0/6164270fa81900060c752c3c/storage6d2b-1307picturesimages.jpg)
 ## Websites
 - https://sjemy.blogspot.com
+- 
 - https://sjemy2210.wordpress.com
+- 
 - https://en.gravatar.com/sjemy2210
+- 
 - https://hub.docker.com/u/sjemy2210
+- 
 - https://id.wikipedia.org/wiki/Pengguna:SJEMY
 
 sjemy2210
@@ -50,10 +54,15 @@ An  venture
 Work With Us
 ```
 [chrome | JEMY SETIAWAN](https://code.dcoder.tech/files/project/6163188a3289ae8486f673fe/chrome)
+
 [ultimate-facebook-scraper | JEMY SETIAWAN](https://code.dcoder.tech/files/project/616485a653702c59fd85c30d/ultimate-facebook-scraper)
+
 [Twitter login page | JEMY SETIAWAN](https://code.dcoder.tech/files/design/61647b32a81900060c757222/twitter-login-page)
+
 [Instagram Login by Html css | JEMY SETIAWAN](https://code.dcoder.tech/files/design/61611066032d0706a6f98740/instagram-login-by-html-css--jemy)
+
 [telegrambotslist | JEMY SETIAWAN](https://code.dcoder.tech/files/project/615326ef17efffa0d6b400dc/telegrambotslist)
 
 `October, Monday 11'2021`
+
 `Created ®FARIZ ADZKATIO & 𝙹𝙴𝙼𝚈 𝚂𝙴𝚃𝙸𝙰𝚆𝙰𝙽™️©All Copyrights Reserved`
